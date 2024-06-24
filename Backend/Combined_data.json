@@ -1,0 +1,39 @@
+[
+  {
+    "totalAmount": 0,
+    "rowData": [
+      {
+        "id": "addr1",
+        "value": 10000
+      },
+      {
+        "id": "addr2",
+        "value": 2435
+      },
+      {
+        "id": "addr3",
+        "value": 0
+      },
+      {
+        "id": "addr4",
+        "value": 0
+      },
+      {
+        "id": "addr5",
+        "value": 0
+      },
+      {
+        "id": "addr6",
+        "value": 0
+      },
+      {
+        "id": "addr7",
+        "value": 0
+      },
+      {
+        "id": "addr8",
+        "value": 0
+      }
+    ]
+  }
+]
