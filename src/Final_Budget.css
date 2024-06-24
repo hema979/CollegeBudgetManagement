@@ -1,0 +1,26 @@
+/* Final_Budget.css */
+
+.totals-container {
+    margin: 20px;
+}
+
+.total-form {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.total-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.total-table th, .total-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.total-table th {
+    background-color: #f2f2f2;
+}
